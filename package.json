@@ -1,0 +1,19 @@
+{
+  "name": "driverdrowsinessdetector",
+  "version": "1.0.0",
+  "description": "WebApp for detecting drowsiness in drivers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugofernandezs/DriverDrowsinessDetector.git"
+  },
+  "author": "Hugo Fernández Solís",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hugofernandezs/DriverDrowsinessDetector/issues"
+  },
+  "homepage": "https://github.com/hugofernandezs/DriverDrowsinessDetector#readme"
+}
